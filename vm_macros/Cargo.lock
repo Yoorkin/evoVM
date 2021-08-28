@@ -3,12 +3,5 @@
 version = 3
 
 [[package]]
-name = "evoVM"
-version = "0.1.0"
-dependencies = [
- "vm_macros",
-]
-
-[[package]]
 name = "vm_macros"
 version = "0.1.0"
